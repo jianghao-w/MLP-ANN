@@ -1,3 +1,18 @@
 # MLP-ANN
 
 This project aims to create an **Artificial Neural Network** (ANN) from scratch using Python and NumPy for learning purposes. This ANN model is powered by the **MLP** and **Backpropagation** algorithim. It ßsupports both standard fixed rate learning and adaptive learning.
+
+## Result
+Adaptive Learning
+
+![Image Alt text](/Image/Visualization_of_AdaptiveLearning.png)
+
+![Image Alt text](/Image/Result_with_adaptivelearning.png)
+
+
+
+Fixed Rate Learning
+
+![Image Alt text](/Image/Visualization_of_without_adaptivelearning.png)
+
+![Image Alt text](/Image/Result_without_adaptivelearning.png)
